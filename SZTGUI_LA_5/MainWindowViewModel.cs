@@ -16,5 +16,7 @@ namespace SZTGUI_LA_5
             get { return errorMessage; }
             set { SetProperty(ref errorMessage, value); }
         }
+
+        public RestService
     }
 }
