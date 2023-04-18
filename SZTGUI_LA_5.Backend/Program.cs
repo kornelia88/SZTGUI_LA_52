@@ -22,5 +22,7 @@ namespace SZTGUI_LA_5.Backend
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        //próba
     }
 }
